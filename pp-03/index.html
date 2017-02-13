@@ -7,6 +7,34 @@
   <link rel="stylesheet" media="screen" href="screen.css" />
 </head>
 <body>
-
+  
+  <header id="header">
+    <h1>Sign up today!</h1>
+  </header>
+  
+  <main class="content">
+    <form action="#null" method="post" class=register">
+    
+        <div class="email">
+          <label for="email">Email:</label>
+          <input type="email" id="email" email="email" placeholder="example@gmail.com" required />
+        </div>
+        
+        <div class="phone">
+          <label for="name">Phone Number:</label>
+          <input type="tel" id="phone" name="phone" placeholder="555-555-5555" required/>
+        </div>
+        
+        <div class="birth">
+          <label for="name">Date of Birth:</label>
+          <input type="date" id="birth" name="birth" placeholder="MM/DD/YY" required/>
+        </div>
+        
+        <div class="button">
+          <input type="submit" value="Sign Up Now!" class="signup"/>
+        </div>
+        
+      </form>
+  </main>
 </body>
 </html>
