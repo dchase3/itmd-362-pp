@@ -192,6 +192,7 @@ img, audio, video {
 */
 
 html {
+  font-family: "TimesNewRoman","Times New Roman","Times","Baskerville",Georgia,serif; 
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
@@ -200,6 +201,30 @@ html {
 
 label {
   display: block;
+}
+
+h1{
+  padding-bottom: 1.2em;
+  padding-top: 1.25em;
+}
+
+li{
+  padding-top: 1.15em;
+}
+li:last-child{
+  padding-top: 0.05em; 
+}
+
+input{
+  border-style: dashed;
+  border-color: #c0c0c0;
+}
+
+label{
+  padding-bottom: 0.95em;
+}
+label:last-child{
+  padding-top: 1.25em;
 }
 
 /* ===== LAYOUT STYLES ====== */
