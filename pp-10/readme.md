@@ -18,4 +18,14 @@ Take a screenshot of the interface on both a mobile and desktop device. Then, sk
 
 * Sketch or illustrate (e.g., in Photoshop) your alternate/"b" test, placed in this directory (`pp-10/`)
 
+   Desktop_Acedemic_Alt.png - description below
+
 * A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for the test (you do *not* have to write the actual HTML, CSS, and JavaScript, however)
+
+In area 1 I'd like to make the space look a little more used in the desktop version, in the HTML/CSS I think it'd be neat to add links to blackboard and the email service like how it is set up on the current myIIT Portal.
+
+In area 2 when streched out to the size of webpage the picture used doesn't even make it halfway around the page so if a longer image could be used or if a small area of text could be added or if even just centering the picture in CSS, I think it would look neater.
+
+In area 3 the registration tools section conforms with what is inside of it so it doesn't stay the same size as the student grades tab directly to the left of it in desktop mode. Using CSS it might be possible to force the tabs to be equal so it doesn't leave that gap in the middle of the page.
+
+In area 4, the top left portion of the student grades window shows the current term being shown. The current term is incredibly squished so in the CSS I would add some padding to the left so it lines up with the writing below it, and add some padding above and below just so it looks nicer.
