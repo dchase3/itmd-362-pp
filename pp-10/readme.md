@@ -10,6 +10,12 @@ Take a screenshot of the interface on both a mobile and desktop device. Then, sk
 
 * Screenshots of the interface component on mobile and desktop, placed in this directory (`pp-10/`)
 
+1. Desktop_Home.png - Homepage on desktop/laptop view
+2. Desktop_Acedemic.png - Acedemics tab on desktop/laptop view
+3. Mobile_Home1.png - Homepage on mobile view with navbar hidden
+4. Mobile_Home2.png - Homepage on mobile view with navbar visible
+5. Mobile_Acedemic.png - Acedemics tab on mobile view
+
 * Sketch or illustrate (e.g., in Photoshop) your alternate/"b" test, placed in this directory (`pp-10/`)
 
 * A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for the test (you do *not* have to write the actual HTML, CSS, and JavaScript, however)
