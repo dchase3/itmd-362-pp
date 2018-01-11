@@ -1,4 +1,3 @@
-## test
 ## ITMD 362, Production Problem 1: Cloning and Committing to a Git Repository
 
 For this production problem, you will fork, clone, and commit and push changes to a
